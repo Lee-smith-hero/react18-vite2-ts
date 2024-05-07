@@ -634,5 +634,3 @@ module.exports = {
   }
 }
 ```
-
-转自：<https://github.com/guojiongwei/react18-vite2-ts/tree/main>
